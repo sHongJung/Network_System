@@ -1,0 +1,182 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+C	../../PROJECT_C/GETPSD/Makefile	/^C          = gcc$/;"	m
+C	../../PROJECT_C/GETPSD_jk/Makefile	/^C          = gcc$/;"	m
+C	../../PROJECT_C/PSMANAGER/Makefile	/^C          = gcc$/;"	m
+C	../../PROJECT_C/SERVERD/Makefile	/^C          = gcc$/;"	m
+C	../../PROJECT_C/SERVERD_jk/Makefile	/^C          = gcc$/;"	m
+CC	../../EXERCISE/Makefile	/^CC = gcc$/;"	m
+CFLAGS	../../EXERCISE/Makefile	/^CFLAGS = -W -Wall -O2$/;"	m
+CFLAGS	../../PROJECT_C/GETPSD/Makefile	/^CFLAGS      = -W -Wall -O2$/;"	m
+CFLAGS	../../PROJECT_C/GETPSD_jk/Makefile	/^CFLAGS      = -W -Wall -O2$/;"	m
+CFLAGS	../../PROJECT_C/PSMANAGER/Makefile	/^CFLAGS      = -W -Wall -g$/;"	m
+CFLAGS	../../PROJECT_C/SERVERD/Makefile	/^CFLAGS      = -W -Wall -g$/;"	m
+CFLAGS	../../PROJECT_C/SERVERD_jk/Makefile	/^CFLAGS      = -W -Wall -g$/;"	m
+GetIPinfo	../../PROJECT_C/GETPSD/prcfile_gen.c	/^void GetIPinfo(){$/;"	f
+GetIPinfo	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^void GetIPinfo(){$/;"	f
+GetPrcInfo	../../PROJECT_C/SERVERD/prc_info.c	/^int GetPrcInfo(Process *process)$/;"	f
+GetPrcInfo	../../PROJECT_C/SERVERD_jk/prc_info.c	/^int GetPrcInfo(Process *process)$/;"	f
+IPaddr	../../PROJECT_C/GETPSD/prclient.h	/^}IPaddr;	$/;"	t	typeref:struct:__anon2
+IPaddr	../../PROJECT_C/GETPSD_jk/prclient.h	/^}IPaddr;	$/;"	t	typeref:struct:__anon15
+IPaddr	../../PROJECT_C/SERVERD/prcserver.h	/^}IPaddr; $/;"	t	typeref:struct:__anon9
+IPaddr	../../PROJECT_C/SERVERD_jk/prcserver.h	/^}IPaddr; $/;"	t	typeref:struct:__anon5
+IpChk	../../PROJECT_C/SERVERD/prc_info.c	/^int IpChk(char *ipaddr)$/;"	f
+IpChk	../../PROJECT_C/SERVERD_jk/prc_info.c	/^int IpChk(char *ipaddr)$/;"	f
+IpCount	../../PROJECT_C/GETPSD/prcfile_gen.c	/^int IpCount(){$/;"	f
+IpCount	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^int IpCount(){$/;"	f
+LDFLAGS	../../EXERCISE/Makefile	/^LDFLAGS = -lm$/;"	m
+LDFLAGS	../../PROJECT_C/GETPSD/Makefile	/^LDFLAGS     = -lm$/;"	m
+LDFLAGS	../../PROJECT_C/GETPSD_jk/Makefile	/^LDFLAGS     = -lm$/;"	m
+LDFLAGS	../../PROJECT_C/PSMANAGER/Makefile	/^LDFLAGS     = -lm -lpthread$/;"	m
+LDFLAGS	../../PROJECT_C/SERVERD/Makefile	/^LDFLAGS     = -lm$/;"	m
+LDFLAGS	../../PROJECT_C/SERVERD_jk/Makefile	/^LDFLAGS     = -lm$/;"	m
+MAX	../../PROJECT_C/SERVERD/prcserver.h	20;"	d
+MAX	../../PROJECT_C/SERVERD_jk/prcserver.h	20;"	d
+MAX_FD_SOCKET	../../PROJECT_C/SERVERD/prcserver.h	19;"	d
+MAX_FD_SOCKET	../../PROJECT_C/SERVERD_jk/prcserver.h	19;"	d
+MSGQ_TYPE	../../PROJECT_C/PSMANAGER/psmanager.h	14;"	d
+MSGQ_TYPE	../../PROJECT_C/SERVERD/prcserver.h	14;"	d
+MSGQ_TYPE	../../PROJECT_C/SERVERD_jk/prcserver.h	14;"	d
+MntPrcChg	../../PROJECT_C/PSMANAGER/psmnt.c	/^int MntPrcChg(iProcess *client_new, iProcess *shm)$/;"	f
+MntPrcChg	../../PROJECT_C/SERVERD/prc_info.c	/^int MntPrcChg(Process *process_new, Process *process_old)$/;"	f
+MntPrcChg	../../PROJECT_C/SERVERD_jk/prc_info.c	/^int MntPrcChg(Process *process_new, Process *process_old)$/;"	f
+Mq_buf	../../PROJECT_C/PSMANAGER/psmanager.h	/^}Mq_buf;$/;"	t	typeref:struct:__anon13
+Mq_buf	../../PROJECT_C/SERVERD/prcserver.h	/^}Mq_buf;$/;"	t	typeref:struct:__anon10
+Mq_buf	../../PROJECT_C/SERVERD_jk/prcserver.h	/^}Mq_buf;$/;"	t	typeref:struct:__anon6
+PROCESS_CHANGED	../../PROJECT_C/PSMANAGER/psmanager.h	16;"	d
+PROCESS_CHANGED	../../PROJECT_C/SERVERD/prcserver.h	16;"	d
+PROCESS_CHANGED	../../PROJECT_C/SERVERD_jk/prcserver.h	16;"	d
+PROCESS_NOT_CHANGED	../../PROJECT_C/PSMANAGER/psmanager.h	17;"	d
+PROCESS_NOT_CHANGED	../../PROJECT_C/SERVERD/prcserver.h	17;"	d
+PROCESS_NOT_CHANGED	../../PROJECT_C/SERVERD_jk/prcserver.h	17;"	d
+PrcCount	../../PROJECT_C/GETPSD/prcfile_gen.c	/^int PrcCount(){$/;"	f
+PrcCount	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^int PrcCount(){$/;"	f
+PrcFileGen	../../PROJECT_C/GETPSD/prcfile_gen.c	/^void PrcFileGen(){$/;"	f
+PrcFileGen	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^void PrcFileGen(){$/;"	f
+PrcInfoGet	../../PROJECT_C/GETPSD/prcfile_gen.c	/^void PrcInfoGet(IPaddr *ipaddr, int portno, Process *process, int ip_num, int prc_num, int rcv_size){$/;"	f
+PrcInfoGet	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^void PrcInfoGet(IPaddr *ipaddr, int portno, Process *process, int ip_num, int prc_num, int rcv_size){$/;"	f
+PrintAllCli_Th	../../PROJECT_C/PSMANAGER/psmnt.c	/^void PrintAllCli_Th(void)$/;"	f
+PrintPrc	../../PROJECT_C/PSMANAGER/psmnt.c	/^void PrintPrc(iProcess *iprocess)$/;"	f
+PrintPrcInfo	../../PROJECT_C/GETPSD/prcfile_gen.c	/^void PrintPrcInfo(Process *process, int prc_num)$/;"	f
+PrintPrcInfo	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^void PrintPrcInfo(Process *process, int prc_num)$/;"	f
+Print_SigHandler	../../PROJECT_C/PSMANAGER/psmnt.c	/^void Print_SigHandler(int signo)$/;"	f
+Process	../../PROJECT_C/GETPSD/prclient.h	/^}Process;$/;"	t	typeref:struct:__anon1
+Process	../../PROJECT_C/GETPSD_jk/prclient.h	/^}Process;$/;"	t	typeref:struct:__anon14
+Process	../../PROJECT_C/PSMANAGER/psmanager.h	/^}Process;$/;"	t	typeref:struct:__anon11
+Process	../../PROJECT_C/SERVERD/prcserver.h	/^}Process;$/;"	t	typeref:struct:__anon7
+Process	../../PROJECT_C/SERVERD_jk/prcserver.h	/^}Process;$/;"	t	typeref:struct:__anon3
+ServerIpChk	../../PROJECT_C/GETPSD/prcfile_gen.c	/^void ServerIpChk(char *str)$/;"	f
+ServerIpChk	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^void ServerIpChk(char *str)$/;"	f
+Th_PrintPrc	../../PROJECT_C/PSMANAGER/psmnt.c	/^void *Th_PrintPrc(void *arg)$/;"	f
+add_socket	../../PROJECT_C/SERVERD/select_sock.c	/^int add_socket(int fd){$/;"	f
+add_socket	../../PROJECT_C/SERVERD_jk/select_sock.c	/^int add_socket(int fd){$/;"	f
+c	../../PROJECT_C/GETPSD/prclient.h	/^	int c;$/;"	m	struct:__anon1
+c	../../PROJECT_C/GETPSD_jk/prclient.h	/^	int c;$/;"	m	struct:__anon14
+c	../../PROJECT_C/PSMANAGER/psmanager.h	/^        int c;$/;"	m	struct:__anon11
+c	../../PROJECT_C/SERVERD/prcserver.h	/^	int c;$/;"	m	struct:__anon7
+c	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	int c;$/;"	m	struct:__anon3
+cli_id	../../PROJECT_C/GETPSD/prcfile_gen.c	/^char cli_id[10] = {0,};$/;"	v
+cli_id	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^char cli_id[10] = {0,};$/;"	v
+cli_ip	../../PROJECT_C/PSMANAGER/psmanager.h	/^        char cli_ip[30];$/;"	m	struct:__anon12
+cli_ip	../../PROJECT_C/SERVERD/prcserver.h	/^	char cli_ip[30];$/;"	m	struct:__anon8
+cli_ip	../../PROJECT_C/SERVERD/prcserver_main.c	/^char cli_ip[30];$/;"	v
+cli_ip	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	char cli_ip[30];$/;"	m	struct:__anon4
+cli_ip	../../PROJECT_C/SERVERD_jk/prcserver_main.c	/^char cli_ip[30];$/;"	v
+cmd	../../PROJECT_C/GETPSD/prclient.h	/^	char cmd[50];$/;"	m	struct:__anon1
+cmd	../../PROJECT_C/GETPSD_jk/prclient.h	/^	char cmd[50];$/;"	m	struct:__anon14
+cmd	../../PROJECT_C/PSMANAGER/psmanager.h	/^        char cmd[50];$/;"	m	struct:__anon11
+cmd	../../PROJECT_C/SERVERD/prcserver.h	/^	char cmd[50];$/;"	m	struct:__anon7
+cmd	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	char cmd[50];$/;"	m	struct:__anon3
+cnt_fd_socket	../../PROJECT_C/SERVERD/prcserver.h	/^int cnt_fd_socket;$/;"	v
+cnt_fd_socket	../../PROJECT_C/SERVERD_jk/prcserver.h	/^int cnt_fd_socket;$/;"	v
+del_socket	../../PROJECT_C/SERVERD/select_sock.c	/^int del_socket(int fd){$/;"	f
+del_socket	../../PROJECT_C/SERVERD_jk/select_sock.c	/^int del_socket(int fd){$/;"	f
+error	../../PROJECT_C/GETPSD/prcli_main.c	/^void error(const char *msg)$/;"	f
+error	../../PROJECT_C/GETPSD_jk/prcli_main.c	/^void error(const char *msg)$/;"	f
+error	../../PROJECT_C/SERVERD/prcserver_main.c	/^void error(const char *msg)$/;"	f
+error	../../PROJECT_C/SERVERD_jk/prcserver_main.c	/^void error(const char *msg)$/;"	f
+fd	../../PROJECT_C/PSMANAGER/psmanager.h	/^	int fd;$/;"	m	struct:__anon12
+fd	../../PROJECT_C/SERVERD/prcserver.h	/^        int fd;$/;"	m	struct:__anon8
+fd	../../PROJECT_C/SERVERD_jk/prcserver.h	/^        int fd;$/;"	m	struct:__anon4
+fd_biggest	../../PROJECT_C/SERVERD/prcserver.h	/^int fd_biggest; $/;"	v
+fd_biggest	../../PROJECT_C/SERVERD_jk/prcserver.h	/^int fd_biggest; $/;"	v
+fd_socket	../../PROJECT_C/SERVERD/prcserver.h	/^int fd_socket[MAX_FD_SOCKET];$/;"	v
+fd_socket	../../PROJECT_C/SERVERD_jk/prcserver.h	/^int fd_socket[MAX_FD_SOCKET];$/;"	v
+fds_read	../../PROJECT_C/SERVERD/prcserver.h	/^fd_set fds_read;$/;"	v
+fds_read	../../PROJECT_C/SERVERD_jk/prcserver.h	/^fd_set fds_read;$/;"	v
+iProcess	../../PROJECT_C/PSMANAGER/psmanager.h	/^}iProcess;$/;"	t	typeref:struct:__anon12
+iProcess	../../PROJECT_C/SERVERD/prcserver.h	/^}iProcess;$/;"	t	typeref:struct:__anon8
+iProcess	../../PROJECT_C/SERVERD_jk/prcserver.h	/^}iProcess;$/;"	t	typeref:struct:__anon4
+id_size	../../PROJECT_C/GETPSD/prcfile_gen.c	/^int id_size = 0;$/;"	v
+id_size	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^int id_size = 0;$/;"	v
+ip	../../PROJECT_C/GETPSD/prclient.h	/^	char ip[30];$/;"	m	struct:__anon2
+ip	../../PROJECT_C/GETPSD_jk/prclient.h	/^	char ip[30];$/;"	m	struct:__anon15
+ip	../../PROJECT_C/SERVERD/prcserver.h	/^	char ip[30];$/;"	m	struct:__anon9
+ip	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	char ip[30];$/;"	m	struct:__anon5
+logname	../../PROJECT_C/GETPSD/prcfile_gen.c	/^char logname[20];$/;"	v
+logname	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^char logname[20];$/;"	v
+lognameget	../../PROJECT_C/GETPSD/prcfile_gen.c	/^char lognameget[256];$/;"	v
+lognameget	../../PROJECT_C/GETPSD_jk/prcfile_gen.c	/^char lognameget[256];$/;"	v
+main	../../EXERCISE/io.c	/^int main(void)$/;"	f
+main	../../PROJECT_C/GETPSD/get_ip.c	/^int main(int nFamily)$/;"	f
+main	../../PROJECT_C/GETPSD/prcli_main.c	/^int main(int argc, char *argv[]){$/;"	f
+main	../../PROJECT_C/GETPSD_jk/get_ip.c	/^int main(int nFamily)$/;"	f
+main	../../PROJECT_C/GETPSD_jk/prcli_main.c	/^int main(int argc, char *argv[]){$/;"	f
+main	../../PROJECT_C/PSMANAGER/prcmserver_main.c	/^int main()$/;"	f
+main	../../PROJECT_C/PSMANAGER/psmanager_main.c	/^int main()$/;"	f
+main	../../PROJECT_C/SERVERD/prcserver_main.c	/^int main(int argc, char *argv[])$/;"	f
+main	../../PROJECT_C/SERVERD_jk/prcserver_main.c	/^int main(int argc, char *argv[])$/;"	f
+mk_fds	../../PROJECT_C/SERVERD/select_sock.c	/^int mk_fds(fd_set *fds, int *a_fd_socket){$/;"	f
+mk_fds	../../PROJECT_C/SERVERD_jk/select_sock.c	/^int mk_fds(fd_set *fds, int *a_fd_socket){$/;"	f
+msgtext	../../PROJECT_C/PSMANAGER/psmanager.h	/^        char msgtext[3072];$/;"	m	struct:__anon13
+msgtext	../../PROJECT_C/SERVERD/prcserver.h	/^	char msgtext[3072];$/;"	m	struct:__anon10
+msgtext	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	char msgtext[3072];$/;"	m	struct:__anon6
+msgtype	../../PROJECT_C/PSMANAGER/psmanager.h	/^        long msgtype;$/;"	m	struct:__anon13
+msgtype	../../PROJECT_C/SERVERD/prcserver.h	/^	long msgtype;$/;"	m	struct:__anon10
+msgtype	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	long msgtype;$/;"	m	struct:__anon6
+pid	../../PROJECT_C/GETPSD/prclient.h	/^	int pid;$/;"	m	struct:__anon1
+pid	../../PROJECT_C/GETPSD_jk/prclient.h	/^	int pid;$/;"	m	struct:__anon14
+pid	../../PROJECT_C/PSMANAGER/psmanager.h	/^        int pid;$/;"	m	struct:__anon11
+pid	../../PROJECT_C/SERVERD/prcserver.h	/^	int pid;$/;"	m	struct:__anon7
+pid	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	int pid;$/;"	m	struct:__anon3
+portno	../../PROJECT_C/GETPSD/prclient.h	/^	int portno;$/;"	m	struct:__anon2
+portno	../../PROJECT_C/GETPSD_jk/prclient.h	/^	int portno;$/;"	m	struct:__anon15
+portno	../../PROJECT_C/SERVERD/prcserver.h	/^	int portno;$/;"	m	struct:__anon9
+portno	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	int portno;$/;"	m	struct:__anon5
+ppid	../../PROJECT_C/GETPSD/prclient.h	/^	int ppid;$/;"	m	struct:__anon1
+ppid	../../PROJECT_C/GETPSD_jk/prclient.h	/^	int ppid;$/;"	m	struct:__anon14
+ppid	../../PROJECT_C/PSMANAGER/psmanager.h	/^        int ppid;$/;"	m	struct:__anon11
+ppid	../../PROJECT_C/SERVERD/prcserver.h	/^	int ppid;$/;"	m	struct:__anon7
+ppid	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	int ppid;$/;"	m	struct:__anon3
+prc	../../PROJECT_C/PSMANAGER/psmanager.h	/^        Process prc[30];$/;"	m	struct:__anon12
+prc	../../PROJECT_C/SERVERD/prcserver.h	/^        Process prc[30];$/;"	m	struct:__anon8
+prc	../../PROJECT_C/SERVERD_jk/prcserver.h	/^        Process prc[30];$/;"	m	struct:__anon4
+prc_num	../../PROJECT_C/GETPSD/prclient.h	/^	int prc_num;$/;"	m	struct:__anon1
+prc_num	../../PROJECT_C/GETPSD_jk/prclient.h	/^	int prc_num;$/;"	m	struct:__anon14
+prc_num	../../PROJECT_C/PSMANAGER/psmanager.h	/^        int prc_num;$/;"	m	struct:__anon11
+prc_num	../../PROJECT_C/SERVERD/prcserver.h	/^        int prc_num;$/;"	m	struct:__anon7
+prc_num	../../PROJECT_C/SERVERD_jk/prcserver.h	/^        int prc_num;$/;"	m	struct:__anon3
+stime	../../PROJECT_C/GETPSD/prclient.h	/^	char stime[10];$/;"	m	struct:__anon1
+stime	../../PROJECT_C/GETPSD_jk/prclient.h	/^	char stime[10];$/;"	m	struct:__anon14
+stime	../../PROJECT_C/PSMANAGER/psmanager.h	/^        char stime[10];$/;"	m	struct:__anon11
+stime	../../PROJECT_C/SERVERD/prcserver.h	/^	char stime[10];$/;"	m	struct:__anon7
+stime	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	char stime[10];$/;"	m	struct:__anon3
+time	../../PROJECT_C/GETPSD/prclient.h	/^	char time[20];$/;"	m	struct:__anon1
+time	../../PROJECT_C/GETPSD_jk/prclient.h	/^	char time[20];$/;"	m	struct:__anon14
+time	../../PROJECT_C/PSMANAGER/psmanager.h	/^        char time[20];$/;"	m	struct:__anon11
+time	../../PROJECT_C/SERVERD/prcserver.h	/^	char time[20];$/;"	m	struct:__anon7
+time	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	char time[20];$/;"	m	struct:__anon3
+tty	../../PROJECT_C/GETPSD/prclient.h	/^	char tty[3];$/;"	m	struct:__anon1
+tty	../../PROJECT_C/GETPSD_jk/prclient.h	/^	char tty[3];$/;"	m	struct:__anon14
+tty	../../PROJECT_C/PSMANAGER/psmanager.h	/^        char tty[3];$/;"	m	struct:__anon11
+tty	../../PROJECT_C/SERVERD/prcserver.h	/^	char tty[3];$/;"	m	struct:__anon7
+tty	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	char tty[3];$/;"	m	struct:__anon3
+user	../../PROJECT_C/GETPSD/prclient.h	/^	char user[20];$/;"	m	struct:__anon1
+user	../../PROJECT_C/GETPSD_jk/prclient.h	/^	char user[20];$/;"	m	struct:__anon14
+user	../../PROJECT_C/PSMANAGER/psmanager.h	/^        char user[20];$/;"	m	struct:__anon11
+user	../../PROJECT_C/SERVERD/prcserver.h	/^	char user[20];$/;"	m	struct:__anon7
+user	../../PROJECT_C/SERVERD_jk/prcserver.h	/^	char user[20];$/;"	m	struct:__anon3

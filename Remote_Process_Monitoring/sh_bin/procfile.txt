@@ -1,0 +1,12 @@
+iotgw_omp   24508     1  0 11:26 ?        00:00:02 ixpc
+iotgw_omp   24604     1  0 11:26 ?        00:00:01 samd
+iotgw_omp   24622     1  0 11:26 ?        00:00:00 fimd
+iotgw_omp   24634     1  0 11:26 ?        00:00:00 cond
+iotgw_omp   24665     1  0 11:26 ?        00:00:00 stmd
+iotgw_omp   24744     1  0 11:26 ?        00:00:00 mmcd
+iotgw_omp   24755     1  0 11:26 ?        00:00:00 nmsib
+iotgw_omp   24758     1  0 11:26 ?        00:00:00 mcdm
+iotgw_omp   24761     1  0 11:26 ?        00:00:00 snmpib
+iotgw_omp   24768     1  0 11:26 ?        00:00:00 shmd
+iotgw_omp   24841     1  0 11:26 ?        00:00:00 statruled
+iotgw_omp   24927     1  0 11:26 ?        00:00:00 avpmgr

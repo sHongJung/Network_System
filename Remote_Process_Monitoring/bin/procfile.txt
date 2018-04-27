@@ -1,0 +1,14 @@
+iotgw        52685      1  0 Dec05 ?        00:09:42 ixpc
+iotgw        52690      1  0 Dec05 ?        00:10:42 sysmgr
+iotgw        52916      1  0 Dec05 ?        00:10:08 mmib
+iotgw        52947      1  0 Dec05 ?        00:02:06 stmd
+iotgw        53025      1  0 Dec05 ?        00:01:51 rulemgr
+iotgw        53063      1  0 Dec05 ?        00:08:32 radiusif
+iotgw        53067      1  0 Dec05 ?        00:05:49 rcb
+iotgw        53072      1  0 Dec05 ?        00:03:31 sessmgr
+iotgw        53104      1  0 Dec05 ?        00:06:51 rcbp
+iotgw        53108      1  0 Dec05 ?        00:02:47 fnpsif
+iotgw        53111      1  1 Dec05 ?        00:18:47 logmgr
+iotgw        53262      1  1 Dec05 ?        00:19:37 adif
+iotgw        53266      1  1 Dec05 ?        00:21:08 diameter
+iotgw        53290      1  1 Dec05 ?        00:14:12 stkmd
